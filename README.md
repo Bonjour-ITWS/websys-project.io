@@ -1,4 +1,9 @@
+Link to hosted site: https://bonjour-itws.github.io/websys-project.io/
+
+
+
 Log:
+
 -uploaded css and index file to git, so that everyone can start work on resumes
 -worked on resumes
 -worked on main page
@@ -10,6 +15,7 @@ Log:
 
 
 Resources:
+
 https://jigsaw.w3.org/css-validator/validator
 
 https://validator.w3.org/check
