@@ -5,11 +5,17 @@ Link to hosted site: https://bonjour-itws.github.io/websys-project.io/
 Log:
 
 -uploaded css and index file to git, so that everyone can start work on resumes
+
 -worked on resumes
+
 -worked on main page
+
 -reserached hcard and some formatting things with pictures
+
 -validated
+
 -re did the index and resumes and needed
+
 -done
 
 
